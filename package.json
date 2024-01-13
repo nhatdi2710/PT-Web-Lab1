@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhatdi2710/PT-Web.git"
+    "url": "git+https://github.com/nhatdi2710/PT-Web-Lab1.git"
   },
   "keywords": [
     "nodejs",
@@ -18,9 +18,9 @@
   "author": "Nhat Duy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nhatdi2710/PT-Web/issues"
+    "url": "https://github.com/nhatdi2710/PT-Web-Lab1/issues"
   },
-  "homepage": "https://github.com/nhatdi2710/PT-Web#readme",
+  "homepage": "https://github.com/nhatdi2710/PT-Web-Lab1#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2"
