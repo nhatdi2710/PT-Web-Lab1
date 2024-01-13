@@ -1,0 +1,28 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhatdi2710/PT-Web.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "lab1"
+  ],
+  "author": "Nhat Duy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhatdi2710/PT-Web/issues"
+  },
+  "homepage": "https://github.com/nhatdi2710/PT-Web#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
