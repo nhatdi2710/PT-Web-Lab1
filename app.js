@@ -10,6 +10,4 @@ app.get('/', (req, res) => {
     res.json({message: "Welcome to contact book app."});
 })
 
-
-app.listen(3000);
 module.exports = app;
